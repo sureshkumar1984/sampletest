@@ -1,3 +1,4 @@
 Checking file
 
 Added the line in GI Page
+Added the test line to check the pull functions
